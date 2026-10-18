@@ -10,13 +10,16 @@
 [![SQLite](https://img.shields.io/badge/SQLite-WAL_Mode-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Ollama Swarm](https://img.shields.io/badge/Ollama_Swarm-Multi--Model-black?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.ai/)
+[![Live Web App](https://img.shields.io/badge/Live_App-GitHub_Pages-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://zainqualitextradingllc-zain.github.io/tech-reads-trilingual-dictionary/)
 [![License: Qualitex Trading LLC](https://img.shields.io/badge/License-Qualitex_Trading_LLC-00E5FF?style=for-the-badge)](./LICENSE)
 
 <br/>
 
+### 🌐 [Click Here to Open the Live Web Application](https://zainqualitextradingllc-zain.github.io/tech-reads-trilingual-dictionary/)
+
 **A mission-critical trilingual professional dictionary and flashcard learning suite engineered by Qualitex Trading LLC under the Tech Reads™ brand.** Designed specifically for international trade, cross-border commerce, skilled technical workers, healthcare professionals, automotive engineers, and software developers operating between English, Japanese, and Urdu.
 
-[Download & Clone](#-download--quickstart) • [Features](#-key-features) • [Domain Coverage](#-professional-domains) • [Swarm Miner](#-ollama-swarm-miner-daemon) • [Legal & Disclaimer](#-copyright--legal-disclaimer)
+[🚀 Open Live App](https://zainqualitextradingllc-zain.github.io/tech-reads-trilingual-dictionary/) • [Download & Clone](#-download--quickstart) • [Features](#-key-features) • [Domain Coverage](#-professional-domains) • [Swarm Miner](#-ollama-swarm-miner-daemon) • [Legal & Disclaimer](#-copyright--legal-disclaimer)
 
 ---
 
