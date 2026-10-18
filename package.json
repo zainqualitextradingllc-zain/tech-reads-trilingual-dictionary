@@ -1,0 +1,14 @@
+{
+  "name": "tech-reads-trilingual-dictionary-workspace",
+  "version": "1.0.0",
+  "description": "Tech Reads™ Trilingual Dictionary (English • 日本語 • اردو) by Qualitex Trading LLC",
+  "scripts": {
+    "start": "npm --prefix app start",
+    "web": "npm --prefix app run web",
+    "android": "npm --prefix app run android",
+    "ios": "npm --prefix app run ios",
+    "install:app": "npm --prefix app install"
+  },
+  "author": "Qualitex Trading LLC",
+  "license": "SEE LICENSE IN LICENSE"
+}
